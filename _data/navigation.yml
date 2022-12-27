@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "HTML&CSS"
-     url: https://SoonminLee.github.io/minimal-mistakes/HTML&CSS/
+  - title: "Category"
+     url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
